@@ -1,0 +1,12 @@
+14:31:27.739 [main] INFO  factory.BaseClass - **Clicking next Button**
+14:31:33.268 [main] INFO  factory.BaseClass - **Capturing the error message**
+14:31:57.330 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+14:31:57.628 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+14:31:57.914 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+14:32:01.305 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+14:32:01.579 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+14:32:04.440 [main] INFO  factory.BaseClass - **Checking for dropdown**
+14:32:04.611 [main] INFO  factory.BaseClass - **Clicking honda option**
+14:32:05.539 [main] INFO  factory.BaseClass - **Checking for read more options**
+14:32:05.747 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+14:32:05.896 [main] INFO  factory.BaseClass - **Printing bike details in console**
